@@ -1,0 +1,11 @@
+{
+  "name": "ecommerce-cart-logic",
+  "version": "1.0.0",
+  "description": "E-Commerce Cart Logic Internship Project",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
